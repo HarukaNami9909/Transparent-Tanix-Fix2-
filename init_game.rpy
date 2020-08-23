@@ -54,6 +54,7 @@ image castle_entrance = "CastleSunset.png"
 ## CHAPTER IMAGES
 ################################################################################
 
-image pro = "Prologue.png"
+image pro = "Prologue.png" 
 image CH1 = "Chapter 1.png"
 image CH1_P2 = "Chapter 1(P2).png"
+image pathwaynight = "Temporary Pathway BG.png"
